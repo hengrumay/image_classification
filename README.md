@@ -8,4 +8,4 @@ A recent project saw me dive deep into convolutional neural networks and I imple
 
 • Further explored [image segmentation](https://en.wikipedia.org/wiki/Image_segmentation) using computer vision techniques to delineate building outlines in images;  
 
-• CNNs were trained on AWS GPU enabled instance and the interactive visualizations employed [Geopandas](http://geopandas.org/), [GDAL](https://en.wikipedia.org/wiki/GDAL), [Matplotlib](https://matplotlib.org/) and [Folium](https://folium.readthedocs.io/en/latest/index.html) Python modules  
+• CNNs were trained on [AWS GPU](https://aws.amazon.com/ec2/instance-types/) enabled instance and the interactive visualizations employed [Geopandas](http://geopandas.org/), [GDAL](https://en.wikipedia.org/wiki/GDAL), [Matplotlib](https://matplotlib.org/) and [Folium](https://folium.readthedocs.io/en/latest/index.html) Python modules  
