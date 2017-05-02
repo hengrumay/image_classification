@@ -4,7 +4,7 @@ A recent project saw me dive deep into convolutional neural networks and I imple
 
 ## Detecting buildings in satellite imagery with deep-learning  
 
-• Developed and trained Convolutional Neural Networks (CNNs) using [Keras](https://keras.io/) with [TensorFlow](https://github.com/tensorflow/tensorflow) backend to detect buildings in a highly unbalanced set of proprietary satellite images and generated an interactive visualization of the holdout image classification outcomes (~93% accuracy) using geospatial information embedded in the geotiffs;  
+• Developed and trained Convolutional Neural Networks (CNNs) using [Keras](https://keras.io/) with [TensorFlow](https://github.com/tensorflow/tensorflow) backend to detect buildings in a highly unbalanced set of *proprietary* satellite images and generated an interactive visualization of the holdout image classification outcomes (~93% accuracy) using geospatial information embedded in the geotiffs;  
 
 • Further explored [image segmentation](https://en.wikipedia.org/wiki/Image_segmentation) using computer vision techniques to delineate building outlines in images;  
 
