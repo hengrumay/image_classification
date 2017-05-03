@@ -1,6 +1,6 @@
 ** _This repo is currently being updated_  
 
-A recent project saw me dive deep into convolutional neural networks and I implemented a proof of concept within a week. 
+A recent project saw me dive _quickly_ into convolutional neural networks and I implemented a proof of concept within a week. 
 
 ## Detecting buildings in satellite imagery with deep-learning  
 
