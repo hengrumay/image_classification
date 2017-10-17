@@ -1,4 +1,4 @@
-** _This repo is currently being updated_  
+** _This repo is being updated_  
 
 A recent project saw me dive _quickly_ into convolutional neural networks and I implemented a proof of concept within a week. 
 
